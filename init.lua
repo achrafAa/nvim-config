@@ -6,3 +6,4 @@ require("achraf.lazy")
 
 require("achraf.after.telescope")
 require("achraf.after.lsp")
+require("achraf.after.colorscheme")
